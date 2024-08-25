@@ -3,6 +3,7 @@
 This project is a full-stack point-of-sale (POS) application developed using Express.js for the backend and React.js for the frontend. The application features an admin dashboard with a sidebar, header, footer, and content areas for managing customers, products, and transactions.
 
 ## Demo
+https://github.com/user-attachments/assets/5a2349b8-5e91-4caa-a71d-d8945b69375c
 
 ## Features
 
@@ -104,6 +105,9 @@ This project is a full-stack point-of-sale (POS) application developed using Exp
   - `App.jsx`: Main entry point for the React application.
 
 ## Getting Started
+
+### API Doc Postman
+https://documenter.getpostman.com/view/30348262/2sAXjF9EzU
 
 ### Prerequisites
 
